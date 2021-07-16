@@ -2,7 +2,7 @@
 
 This repository will be updated with the code for the rewritten bot following the __official__ version 13 release of discord.js, once both the library and the updated bot have been deemed stable. Our hosted version of the bot, [__Mai__](https://mai.gg/) **does not run the code in this repository**. The official bot's source code has been made private and moved to a [Github Organization](https://github.com/mai-bot/) so we can make the structural changes required to optimize and empower it in a away that allows us to continue accommodating the ever-increasing influx of new users that use our hosted bot and so we can prototype and test new features without negatively impacting the large amount of people self-hosting the bot using the code provided in this repository. While this means the bot's features and inner workings no longer pertain to the code in this repository, following our commitment to Open Source and transparency, we will still maintain this repository over time with patches and slowly release new features once they have been tested throughly to ensure they are of the utmost quality. We will only be providing limited, non-obligatory support to self-hosting users **who have not made changes to the code we deem to be significant**.
 
----
+--- Disney
 
 
 <h1 align="center"> <img src='https://cdn.discordapp.com/emojis/757869043117064223.png?v=1' height='50'> Mai</h1>
